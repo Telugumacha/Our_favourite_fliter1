@@ -134,7 +134,7 @@
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ 」─
 </h3>
-<p align="center"><a href="https://railway.app/template/fcJWOw?referralCode=Z9j3yI"">
+<p align="center"><a href="https://railway.app/deploy?template=https://github.com/Telugumacha/Our_favourite_fliter"">
      <img height="45px" src="https://railway.app/button.svg">
 </a></p>
 <h3 align="center">
